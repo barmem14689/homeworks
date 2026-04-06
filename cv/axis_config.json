@@ -1,0 +1,9 @@
+{
+  "camera": 0,
+  "canny_low": 60,
+  "canny_high": 160,
+  "hough_th": 45,
+  "min_line": 50,
+  "max_gap": 15,
+  "min_axis": 40
+}
